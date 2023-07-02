@@ -1,4 +1,4 @@
-package pro.sky.lesson25;
+package pro.sky.lesson25.model;
 
 import java.util.Objects;
 
